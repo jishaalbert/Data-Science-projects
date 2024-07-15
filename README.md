@@ -1,5 +1,7 @@
-Doamin - Financial Status 
-Topic - Online payment Fraud Detection 
+ Topic - Online payment Fraud Detection 
+
+ Domain - Financial Status 
+
 Dataset link:
 https://www.kaggle.com/datasets/rupakroy/online-payments-fraud-detection-dataset 
 
@@ -42,5 +44,6 @@ By analyzing features such as the type of payment, the total amount of the trans
 Here I used Logistics Reggrsion, Random Forest, Gradient Boosting, Support Vector Machine,Decision Tree etc.
 
 Result 
+
 Based on the provided classification reports and accuracy score, the Random Forest model has achieved the highest accuracy in detecting fraudulent transaction compared to other models tested. 
 This implies that the Radom Forest algorithm, which leverage multiple decision tree to make predictions, effectively captures the complexities and pattern in the dataset, making it the most reliable model for this specific classification task.
